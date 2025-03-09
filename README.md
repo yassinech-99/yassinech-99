@@ -1,138 +1,167 @@
-# 🛡️ Yassine Cherair 🚀
+<div align="center">
+  
+# ✨ YASSINE CHERAIR ✨
 
-## 💼 Cybersecurity Specialist & Infrastructure Automation Engineer
+### `🔐 Cybersecurity Expert` | `⚙️ Infrastructure Automation Engineer` | `🌐 Network Specialist`
 
-![Security Badge](https://img.shields.io/badge/Security-Expert-red)
-![Automation Badge](https://img.shields.io/badge/Automation-Engineer-blue)
-![Experience Badge](https://img.shields.io/badge/Experience-2%20Years-green)
+[![Security](https://img.shields.io/badge/SECURITY-EXPERT-FF0000?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/YassineCherair)
+[![Automation](https://img.shields.io/badge/AUTOMATION-WIZARD-0099FF?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/YassineCherair)
+[![Experience](https://img.shields.io/badge/EXPERIENCE-2_YEARS-22BB33?style=for-the-badge&logo=clock&logoColor=white)](https://github.com/YassineCherair)
 
-Welcome to my GitHub Portfolio! I'm passionate about securing networks and automating infrastructure to enhance both security and operational efficiency.
+</div>
 
----
+## 🧠 `ABOUT ME`
 
-## 🧠 About Me
+> I'm a cutting-edge security professional who transforms network defense through automation. I create dynamic, resilient infrastructures that protect against evolving threats while improving operational efficiency.
 
-I specialize in designing and implementing innovative network solutions with a focus on security and automation. My expertise includes:
+<details>
+<summary><b>🔍 MY FOCUS AREAS</b></summary>
+<br>
 
-- 🔄 **Automating complex infrastructures** for scalability and consistency
-- 🔒 **Ensuring network security compliance** across diverse environments
-- 🤖 **Leveraging AI for network optimization** and threat detection
-- 🌐 **Building secure, resilient network architectures**
+- **🛡️ Network Security Architecture**
+- **🤖 Security Automation & Orchestration**
+- **🔄 Continuous Compliance Monitoring**
+- **☁️ Secure Cloud Infrastructure**
+- **🧪 Vulnerability Assessment & Penetration Testing**
 
----
+</details>
 
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-```
-Python  ●●●●●
-Bash    ●●●●○
-PowerShell ●●●○○
-```
-
-### 🤖 Infrastructure Automation
-```
-Ansible    ●●●●●
-Terraform  ●●●●○
-AWX        ●●●○○
-```
-
-### 🌐 API & Web Development
-```
-FastAPI    ●●●●○
-```
-
-### 🖥️ Operating Systems
-```
-Windows & Windows Server  ●●●●○
-Red Hat & Ubuntu          ●●●●●
-```
-
-### ☁️ Cloud Platforms
-```
-AWS        ●●●●○
-Azure      ●●●○○
-```
-
-### 🔍 Security & Monitoring
-- 🛡️ **SIEM & Monitoring:** Wazuh, Splunk, Wireshark, tcpdump
-- 🔎 **IDS/IPS:** Security Onion, Snort, Suricata
-- 🔐 **Vulnerability Assessment:** Tenable Nessus, OpenVAS, OpenSCAP
-
-### 📊 Version Control
-- GitHub & GitLab with CI/CD pipelines
-
-### 🧠 AI Application Frameworks
-- LangChain for security automation
-
----
-
-## 📜 Professional Certifications
+## 🛠️ `TECHNICAL ARSENAL`
 
 <table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Cisco-CCNA-blue" alt="CCNA"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Fortinet-Certified_Associate-orange" alt="Fortinet"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/CompTIA-Security+-green" alt="Security+"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/ISC2-Cybersecurity_(CC)-purple" alt="ISC2"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Secops-Appsec_Practitioner-red" alt="Secops"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Secops-CNSP-darkred" alt="CNSP"/></td>
-  </tr>
+<tr>
+<td>
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+### 🤖 Automation
+![Ansible](https://img.shields.io/badge/ANSIBLE-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/TERRAFORM-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWX](https://img.shields.io/badge/AWX-FF0000?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+<td>
+
+### 🖥️ Systems
+![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![RedHat](https://img.shields.io/badge/REDHAT-EE0000?style=flat-square&logo=red-hat&logoColor=white)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/AZURE-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+<td>
+
+### 🔐 Security
+![Wazuh](https://img.shields.io/badge/WAZUH-1A73E8?style=flat-square&logoColor=white)
+![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/NESSUS-009933?style=flat-square&logoColor=white)
+![Snort](https://img.shields.io/badge/SNORT-FF7F00?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-3178C6?style=flat-square&logoColor=white)
+
+</td>
+</tr>
 </table>
 
+## 🏆 `CERTIFICATIONS`
+
+<div align="center">
+
+![CCNA](https://img.shields.io/badge/CISCO-CCNA-00BCEB?style=for-the-badge&logo=cisco&logoColor=white)
+![FORTINET](https://img.shields.io/badge/FORTINET-CERTIFIED_ASSOCIATE-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Security+](https://img.shields.io/badge/COMPTIA-SECURITY+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![ISC2](https://img.shields.io/badge/ISC²-CERTIFIED_CYBERSECURITY-5F5F5F?style=for-the-badge&logoColor=white)
+![SECOPS](https://img.shields.io/badge/SECOPS-APPSEC_PRACTITIONER-00B2A9?style=for-the-badge&logoColor=white)
+![CNSP](https://img.shields.io/badge/SECOPS-CNSP-FF6B6B?style=for-the-badge&logoColor=white)
+
+</div>
+
+## 🥇 `DIGITAL ACHIEVEMENTS`
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+- 🔒 API Security Fundamentals
+- 🔒 OWASP API Security Top 10
+- 🔒 MITRE ATT&CK Foundations
+- 🔒 Ethical Hacker
+- 🔒 Penetration Testing & IR
+- 🔒 CCNA: Switching & Routing
+- 🔒 CCNA: Enterprise Networking
+
+</td>
+<td>
+
+- 🔒 CCNP: Core Networking
+- 🔒 CCNP: Advanced Routing
+- 🔒 Network Security
+- 🔒 CyberOps Associate
+- 🔒 Junior Cybersecurity Analyst
+- 🔒 Endpoint Security
+- 🔒 Cyber Threat Management
+
+</td>
+<td>
+
+- 🔒 Fortinet Fundamentals
+- 🔒 FortiGate 7.4 Operator
+- 🔒 Cybersecurity 2.0
+- 🔒 OPSWAT Critical Infrastructure
+- 🔒 XM Cyber - Exposure Management
+
+</td>
+</tr>
+</table>
+
+[![View All Badges](https://img.shields.io/badge/VIEW_ALL_BADGES_ON_CREDLY-4285F4?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/yassine-cherair)
+
+</div>
+
+## 🔥 `CURRENT PROJECTS`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI-Powered Threat Detection
+Developing machine learning models that identify unusual network patterns and potential breach indicators before they become critical security incidents.
+
+</td>
+<td width="50%">
+
+### 🔄 Security Compliance Automation
+Building infrastructure-as-code templates that automatically deploy and configure security controls according to industry frameworks.
+
+</td>
+</tr>
+</table>
+
+## 📫 `CONNECT WITH ME`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassineCherair)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+<div align="center">
+
 ---
 
-## 🏅 Digital Badges & Achievements
+<i>"Cybersecurity is a mindset, not just a collection of tools"</i>
 
-### 🔒 Security Specializations
-- **API Security Fundamentals** - APIsec University
-- **OWASP API Security Top 10** - APIsec University
-- **Foundations of Operationalizing MITRE ATT&CK** - AttackIQ
-- **Ethical Hacker** - Cisco
-- **Penetration Testing, Incident Response and Forensics** - IBM
-
-### 🌐 Networking Expertise
-- **CCNA: Switching, Routing, and Wireless Essentials** - Cisco
-- **CCNA: Enterprise Networking, Security, and Automation** - Cisco
-- **CCNP: Core Networking** - Cisco
-- **CCNP: Advanced Routing** - Cisco
-- **Network Security** - Cisco
-
-### 💻 System Security
-- **CyberOps Associate** - Cisco
-- **Junior Cybersecurity Analyst** - Cisco
-- **Operating Systems Basics** - Cisco
-- **Endpoint Security** - Cisco
-- **Cyber Threat Management** - Cisco
-
-### 🛡️ Vendor Security Solutions
-- **Fortinet Certified Fundamentals Cybersecurity** - Fortinet
-- **Fortinet FortiGate 7.4 Operator** - Fortinet
-- **Getting Started in Cybersecurity 2.0** - Fortinet
-- **OPSWAT Introduction to Critical Infrastructure Protection** - OPSWAT
-- **XM Cyber - Exposure Management Expert** - XM Cyber
-
-**[View All Credentials on Credly](https://www.credly.com/users/yassine-cherair)**
-
----
-
-## 🔄 Current Projects
-
-- 🤖 Developing AI-powered network anomaly detection
-- 🔍 Building automated vulnerability scanning pipelines
-- 🛡️ Creating customized security compliance dashboards
-- 📊 Implementing infrastructure-as-code for security controls
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
-
----
-
-*"Security is not just about protection; it's about enabling business through safe innovation."*
+</div>
