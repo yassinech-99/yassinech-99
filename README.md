@@ -18,11 +18,11 @@
 <summary><b>🔍 MY FOCUS AREAS</b></summary>
 <br>
 
-- **🛡️ Network Security Compliance Automation**
-- **🤖 AI-Powered Network Automation**
-- **🔄 Infrastructure Device Network Inventory Solutions**
-- **☁️ Endpoint Security Enforcement**
-- **🧪 Security Compliance Implementation**
+- **🛡️ IT Infrastcture Automation**
+- **Networking and NetDevOPS**
+- **CyberSecurity**
+- **AI Agent Development**
+
 
 </details>
 
@@ -175,7 +175,6 @@ Developed a sophisticated control plane emulation system that replicates complex
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-cherair)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassineCherair)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassinecherair@gmail.com)
-[![Phone](https://img.shields.io/badge/PHONE-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+21354157548)
 
 </div>
 
