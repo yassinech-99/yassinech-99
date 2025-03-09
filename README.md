@@ -2,31 +2,40 @@
   
 # ✨ YASSINE CHERAIR ✨
 
-### `🔐 Cybersecurity Expert` | `⚙️ Infrastructure Automation Engineer` | `🌐 Network Specialist`
+### `🔐 Cybersecurity enthusiast` | `⚙️ Infrastructure Automation Engineer` 
 
 [![Security](https://img.shields.io/badge/SECURITY-EXPERT-FF0000?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/YassineCherair)
-[![Automation](https://img.shields.io/badge/AUTOMATION-WIZARD-0099FF?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/YassineCherair)
-[![Experience](https://img.shields.io/badge/EXPERIENCE-2_YEARS-22BB33?style=for-the-badge&logo=clock&logoColor=white)](https://github.com/YassineCherair)
+[![Automation](https://img.shields.io/badge/AUTOMATION-ENGINEER-0099FF?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/YassineCherair)
+[![Location](https://img.shields.io/badge/LOCATION-ALGERIA-22BB33?style=for-the-badge&logo=map-pin&logoColor=white)](https://github.com/YassineCherair)
 
 </div>
 
 ## 🧠 `ABOUT ME`
 
-> I'm a cutting-edge security professional who transforms network defense through automation. I create dynamic, resilient infrastructures that protect against evolving threats while improving operational efficiency.
+> Cybersecurity enthusiast and Infrastructure Automation Engineer with nearly 2 years of experience driving network optimization through automation. Currently working with InfraXcode as part of an AI R&D Team developing AI Agent Simulators and AI-powered network automation solutions.
 
 <details>
 <summary><b>🔍 MY FOCUS AREAS</b></summary>
 <br>
 
-- **🛡️ Network Security Architecture**
-- **🤖 Security Automation & Orchestration**
-- **🔄 Continuous Compliance Monitoring**
-- **☁️ Secure Cloud Infrastructure**
-- **🧪 Vulnerability Assessment & Penetration Testing**
+- **🛡️ Network Security Compliance Automation**
+- **🤖 AI-Powered Network Automation**
+- **🔄 Infrastructure Device Network Inventory Solutions**
+- **☁️ Endpoint Security Enforcement**
+- **🧪 Security Compliance Implementation**
 
 </details>
 
-## 🛠️ `TECHNICAL ARSENAL`
+## 💼 `PROFESSIONAL EXPERIENCE`
+
+### Infrastructure Automation Engineer | InfraXcode | Paris, FR
+#### September 2023 - Present
+
+- **AXA Project:** Engineered a comprehensive multi-platform network inventory solution spanning Cisco IOS, IOSXE, ACI, and Panorama environments
+- **BNP Bank Project:** Architected an Ansible-driven security compliance solution for automatic endpoint management
+- **AI R&D Team:** Pioneered AI-driven network automation tools leveraging Language Models from OpenAI and Groq
+
+## 🛠️ `TECHNICAL SKILLS`
 
 <table>
 <tr>
@@ -37,11 +46,14 @@
 ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-### 🤖 Automation
+### 🤖 Automation & APIs
 ![Ansible](https://img.shields.io/badge/ANSIBLE-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/TERRAFORM-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWX](https://img.shields.io/badge/AWX-FF0000?style=flat-square&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NETCONF](https://img.shields.io/badge/NETCONF-00C7B7?style=flat-square&logoColor=white)
+![RESTCONF](https://img.shields.io/badge/RESTCONF-009688?style=flat-square&logoColor=white)
+![boto3](https://img.shields.io/badge/BOTO3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 </td>
 <td>
@@ -52,25 +64,37 @@
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![RedHat](https://img.shields.io/badge/REDHAT-EE0000?style=flat-square&logo=red-hat&logoColor=white)
 
-### ☁️ Cloud
+### ☁️ Cloud & Version Control
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/AZURE-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GITLAB-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-3178C6?style=flat-square&logoColor=white)
 
 </td>
 <td>
 
-### 🔐 Security
+### 🔐 Security & Monitoring
 ![Wazuh](https://img.shields.io/badge/WAZUH-1A73E8?style=flat-square&logoColor=white)
 ![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/NESSUS-009933?style=flat-square&logoColor=white)
+![tcpdump](https://img.shields.io/badge/TCPDUMP-4D4D4D?style=flat-square&logoColor=white)
+![SecurityOnion](https://img.shields.io/badge/SECURITY_ONION-2E8B57?style=flat-square&logoColor=white)
 ![Snort](https://img.shields.io/badge/SNORT-FF7F00?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LANGCHAIN-3178C6?style=flat-square&logoColor=white)
+![Suricata](https://img.shields.io/badge/SURICATA-EF3B2D?style=flat-square&logoColor=white)
+![Sguil](https://img.shields.io/badge/SGUIL-4B275F?style=flat-square&logoColor=white)
+![Nessus](https://img.shields.io/badge/NESSUS-009933?style=flat-square&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OPENVAS-008000?style=flat-square&logoColor=white)
+![OpenSCAP](https://img.shields.io/badge/OPENSCAP-4682B4?style=flat-square&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+## 🎓 `EDUCATION`
+
+**University of Medea, Algeria**  
+*BS in Telecommunication Engineering*  
+July 2018 - August 2021
 
 ## 🏆 `CERTIFICATIONS`
 
@@ -98,28 +122,24 @@
 - 🔒 MITRE ATT&CK Foundations
 - 🔒 Ethical Hacker
 - 🔒 Penetration Testing & IR
-- 🔒 CCNA: Switching & Routing
-- 🔒 CCNA: Enterprise Networking
 
 </td>
 <td>
 
+- 🔒 CCNA: Switching & Routing
+- 🔒 CCNA: Enterprise Networking
 - 🔒 CCNP: Core Networking
 - 🔒 CCNP: Advanced Routing
 - 🔒 Network Security
-- 🔒 CyberOps Associate
-- 🔒 Junior Cybersecurity Analyst
-- 🔒 Endpoint Security
-- 🔒 Cyber Threat Management
 
 </td>
 <td>
 
+- 🔒 CyberOps Associate
 - 🔒 Fortinet Fundamentals
 - 🔒 FortiGate 7.4 Operator
-- 🔒 Cybersecurity 2.0
 - 🔒 OPSWAT Critical Infrastructure
-- 🔒 XM Cyber - Exposure Management
+- 🔒 Top 2% on TryHackMe
 
 </td>
 </tr>
@@ -129,20 +149,20 @@
 
 </div>
 
-## 🔥 `CURRENT PROJECTS`
+## 🔥 `KEY PROJECTS`
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI-Powered Threat Detection
-Developing machine learning models that identify unusual network patterns and potential breach indicators before they become critical security incidents.
+### 🤖 AI-Powered Network Automation
+Pioneered AI-driven network automation tools leveraging advanced Language Models from OpenAI and Groq, creating an AI network configuration planner capable of translating natural language queries into precise CLI commands.
 
 </td>
 <td width="50%">
 
-### 🔄 Security Compliance Automation
-Building infrastructure-as-code templates that automatically deploy and configure security controls according to industry frameworks.
+### 🔄 Network Device Emulation Agent
+Developed a sophisticated control plane emulation system that replicates complex network device intelligence with FastAPI-based REST server and SSH server using Paramiko for CLI access.
 
 </td>
 </tr>
@@ -152,16 +172,23 @@ Building infrastructure-as-code templates that automatically deploy and configur
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-cherair)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassineCherair)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassinecherair@gmail.com)
+[![Phone](https://img.shields.io/badge/PHONE-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+21354157548)
 
 </div>
 
 <div align="center">
 
+## 🌟 `INTERESTS & ACTIVITIES`
+
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-053B50?style=flat-square&logoColor=white)
+![Gaming](https://img.shields.io/badge/GAMING-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Technical Reading](https://img.shields.io/badge/TECHNICAL_READING-8250DF?style=flat-square&logo=read-the-docs&logoColor=white)
+
 ---
 
-<i>"Cybersecurity is a mindset, not just a collection of tools"</i>
+<i>"Automating security for a more resilient digital future"</i>
 
 </div>
